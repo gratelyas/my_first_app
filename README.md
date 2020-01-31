@@ -1,5 +1,8 @@
 # README
 
+このアプリケーションは、mysqlでherokuでデプロイできるかを確認するために利用しています。
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
